@@ -1,0 +1,15 @@
+Index: app/src/main/res/values/keys.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/app/src/main/res/values/keys.xml b/app/src/main/res/values/keys.xml
+new file mode 100644
+--- /dev/null	(date 1732069103545)
++++ b/app/src/main/res/values/keys.xml	(date 1732069103545)
+@@ -0,0 +1,4 @@
++<?xml version="1.0" encoding="utf-8"?>
++<resources>
++    <string name="google_maps_api_key">AIzaSyDhMYxHeicgpCmPKvjYk-jXiqdy-PZrDFI</string>
++</resources>
+\ No newline at end of file
